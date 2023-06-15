@@ -11,4 +11,4 @@ More detail will be described in attack.py and demo.py
 
 # Dataset
 
-Datasets used in this repository are available at https://www.cs.toronto.edu/~kriz/cifar.html.
+Datasets(CIFAR-10 and CIFAR-100) used in this repository are available at https://www.cs.toronto.edu/~kriz/cifar.html.
