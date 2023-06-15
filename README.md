@@ -8,3 +8,7 @@ Step two: create one instance using ACBI_PGD or ACBI_FAB.
 Step three: apply attacker on this model.
 
 More detail will be described in attack.py and demo.py
+
+# Dataset
+
+Datasets used in this repository are available at https://www.cs.toronto.edu/~kriz/cifar.html.
